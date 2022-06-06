@@ -2,7 +2,7 @@
 - 👀 I'm interested in refactoring and reverse engineering 
 - 🌱 I’m currently refactoring python, machine learining, algo and cybersecurity projects
 - 💞️ I’m looking to collaborate and sponsorship of my projects on github or another
-- my targets as first phase; achive the fully integration between refactoring, reverse engineering, devops and secure apps and system
+- my targets as first phase; achieve the fully integration between refactoring, reverse engineering, devops and secure apps on github and kaggle platform 
 - 📫 How to reach me gellanyhassan0@gmail.com
 
 <!---
