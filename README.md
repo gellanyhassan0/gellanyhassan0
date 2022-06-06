@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elgilany Hassan
-- 👀 I’m interested in refactoring python and bash project intgrated with oop to enhance clean code world 
+- 👀 I’m interested in refactoring python and bash projects intgrated with oop to enhance clean code world 
 - 🌱 I’m currently learning python, machine learining, algo and cybersecurity programming
 - 💞️ I’m looking to collaborate on python, machine learining, algo and cybersecurity programming
 - 📫 How to reach me gellanyhassan0@gmail.com
