@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate and sponsorship of my projects on github or another
 - my targets as first phase; achieve the fully integration between refactoring, reverse engineering, devops and secure apps on github and kaggle platform as open source apps and projects to improving object oriented programming and devops deploy and implementation in various facilities as cybersecurity and artificial intelligent  field   
 - 📫 How to reach me gellanyhassan0@gmail.com
--https://ko-fi.com/gellany
+https://ko-fi.com/gellany
 
 <!---
 gellanyhassan0/gellanyhassan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
